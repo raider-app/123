@@ -1,0 +1,15 @@
+{
+  "name": "Cat #2",
+  "description": "Latte Cat with blue slit eyes and metal and gold tusk teeth",
+  "attributes": [
+    {
+      "trait_type": "Official",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Verified",
+      "value": "True"
+    }
+  ],
+  "image": "https://richcats.app/api/cat/bg0037:bd0006:ey0065:te0019:wh0002/image?v=5"
+}
